@@ -1,0 +1,139 @@
+Pokedex > Unknown command. Type 'help' for options
+Pokedex > Welcome to the Pokedex!
+Usage:
+
+help: Displays a help message
+map: Display's next 20 locations
+mapb: Display's previous 20 locations
+explore: list of all the Pokémon located there
+catch: throw pokeball at pokemon to catch
+inspect: see details about a Pokemon caught
+exit: Exit the Pokedex
+Pokedex > ====new http request====
+canalave-city-area
+eterna-city-area
+pastoria-city-area
+sunyshore-city-area
+sinnoh-pokemon-league-area
+oreburgh-mine-1f
+oreburgh-mine-b1f
+valley-windworks-area
+eterna-forest-area
+fuego-ironworks-area
+mt-coronet-1f-route-207
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+mt-coronet-4f
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-6f
+mt-coronet-1f-from-exterior
+Pokedex > ====new http request====
+mt-coronet-1f-route-216
+mt-coronet-1f-route-211
+mt-coronet-b1f
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+solaceon-ruins-2f
+solaceon-ruins-1f
+solaceon-ruins-b1f-a
+solaceon-ruins-b1f-b
+solaceon-ruins-b1f-c
+solaceon-ruins-b2f-a
+solaceon-ruins-b2f-b
+solaceon-ruins-b2f-c
+solaceon-ruins-b3f-a
+solaceon-ruins-b3f-b
+solaceon-ruins-b3f-c
+Pokedex > ====new http request====
+canalave-city-area
+eterna-city-area
+pastoria-city-area
+sunyshore-city-area
+sinnoh-pokemon-league-area
+oreburgh-mine-1f
+oreburgh-mine-b1f
+valley-windworks-area
+eterna-forest-area
+fuego-ironworks-area
+mt-coronet-1f-route-207
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+mt-coronet-4f
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-6f
+mt-coronet-1f-from-exterior
+Pokedex > ====new http request====
+Exploring great-marsh-area-1...
+Found Pokemon:
+ - arbok
+ - psyduck
+ - tangela
+ - magikarp
+ - gyarados
+ - hoothoot
+ - noctowl
+ - marill
+ - yanma
+ - wooper
+ - quagsire
+ - azurill
+ - carvanha
+ - barboach
+ - whiscash
+ - tropius
+ - starly
+ - bidoof
+ - bibarel
+ - budew
+Pokedex > You have not caught that pokemon.
+Pokedex > ====new http request====
+Throwing a Pokeball at gyarados...
+...   ...   ...   gyarados escaped!
+Try Again
+Pokedex > ====fetched from pokecache====
+Throwing a Pokeball at gyarados...
+...   ...   ...   gyarados escaped!
+Try Again
+Pokedex > ====new http request====
+Throwing a Pokeball at gyarados...
+...   ...   ...   gyarados escaped!
+Try Again
+Pokedex > ====fetched from pokecache====
+Throwing a Pokeball at gyarados...
+...   ...   ...   gyarados escaped!
+Try Again
+Pokedex > ====new http request====
+Throwing a Pokeball at gyarados...
+...   ...   ...   gyarados escaped!
+Try Again
+Pokedex > ====new http request====
+That pokemon does not exist.
+Pokedex > ====new http request====
+Throwing a Pokeball at magikarp...
+...   ...   ...   magikarp was caught!
+You may now inspect it with the inspect command.
+Pokedex > Name: magikarp
+Height: 9
+Weight: 100
+Stats:
+  hp: 20
+  attack: 10
+  defense: 55
+  special-attack: 15
+  special-defense: 20
+  speed: 80
+Types:
+  - water
+Pokedex > Your Pokedex:
+ - magikarp
+Pokedex > Closing the Pokedex... Goodbye!
