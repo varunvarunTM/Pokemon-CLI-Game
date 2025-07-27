@@ -191,9 +191,9 @@ The application handles various scenarios:
 ## Testing
 
 Run the test suite:
+```bash
 go test ./internal/pokecache
-
-text
+```
 
 Test coverage includes:
 - Cache add/get operations
